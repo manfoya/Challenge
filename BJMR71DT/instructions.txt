@@ -1,0 +1,73 @@
+ 
+ 
+ 
+DATA ANALYST AWARDS  - Instructions Générales  
+1. Format du rapport  (Voir canevas -rapport)  
+Le rapport final devra respecter le canevas suivant :  
+- Page de garde  
+- Résumé / Abstract  
+- Contexte et justification  
+- Objectifs  
+- Méthodes d’analyse  
+- Résultats  
+- Conclusion  
+- Références  
+- Annexes  
+ 
+Consignes de présentation :  
+- Police :  Times New Roman  
+- Taille : 12  
+- Interligne : 1,5  
+- Pagination obligatoire  
+- Pied de page : Sujet de recherche  
+- Le rapport doit être agréable et soigné pour la lecture.  
+2. Autres productions attendues  
+En plus  du rapport, chaque équipe/participant devra rendre :  
+1. Une présentation PowerPoint pour une soutenance de 10 minutes 
+maximum.  
+2. La base de données finale utilisée (Excel, Stata, R, etc.).  
+3. Les codes utilisés (dofile, scripts, etc.), bien structurés et  commentés.  
+4. Le dictionnaire des variables associé à la base.  
+5. (Pour les participations en groupe) : chaque membre remettra en plus un PARAKOU N°RCCM RB/PKO/22 A 15188  
+IFU : 0202249421233  
+ddproject204@gmail.com  
+ DDProject Consulting  
+ 
+ 
+  document Word de 3 pages maximum, dans lequel il propose sa valeur 
+ajoutée personnelle (créativité atten due).  
+3. Logiciels et codes  
+Chaque participant ou équipe est libre de choisir le logiciel d’analyse (Stata, 
+R, Python, SPSS, etc.).  
+Les scripts rendus doivent être fonctionnels, bien organisés et comporter des 
+commentaires expliquant les grandes étapes de l’analyse.  
+4. Critères d’évaluation  
+L’évaluation portera sur 100 points, répartis comme suit :  
+1. Pertinence et originalité du sujet (10 pts)  
+2. Clarté des objectifs et justification (10 pts)  
+3. Méthodologie et rigueur de l’analyse (25 pts)  
+4. Présentation  et interprétation des résultats (20 pts)  
+5. Qualité du rapport écrit (15 pts)  
+6. Qualité de la présentation PowerPoint (10 pts)  
+7. Travail en équipe et créativité (10 pts)  
+5. Points de pénalisation  
+Des pénalités seront appliquées en cas de :  
+- Fichier scr ipt qui ne fonctionne pas ou est incomplet.  
+- Incohérence entre la base de données, le dictionnaire et les codes rendus.  
+- Faible contribution intellectuelle humaine (copier -coller sans valeur 
+ajoutée).  
+- Incapacité à défendre correctement son travail.  
+- Non-respect des délais de soumission.  
+- Faible capacité d’innovation ou manque de créativité.  
+NB : L'équipe de communication vous remettra vos posters et les partagera 
+également sur la page officielle de DDProject . 
+Vous êtes invités à :  
+• Partagez votre affiche sur votre profil Facebook.  
+• Taguer la page DDProject  dans votre publication.  
+• Encouragez vos proches et votre réseau à réagir (likes, commentaires, 
+partages) afin de donner plus de visibilité à vos travaux.    À la fin, le comité fera le point du nombre total de réact ions obtenues . 
+Cette démarche vise à valoriser vos efforts, élargir l'impact de vos 
+recherches et renforcer votre visibilité en tant qu'analyste de données.  
+ 
+MERCI  ! 
+  
